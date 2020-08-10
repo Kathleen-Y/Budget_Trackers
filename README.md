@@ -1,3 +1,7 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/Kathleen-Y/Budget_Trackers?appveyor)
+![GitHub repo size](https://img.shields.io/github/repo-size/Kathleen-Y/Budget_Trackers?appveyor)
+![appveyor build](https://img.shields.io/appveyor/build/Kathleen-Y/Budget_Trackers?appveyor)
+
 # Budget_Trackers
 User Story: AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling. 
 
