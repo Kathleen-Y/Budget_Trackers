@@ -1,6 +1,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Kathleen-Y/Budget_Trackers?appveyor)
 ![](https://img.shields.io/badge/JavaScript-Budget__Trackers-green)
-![](https://img.shields.io/website?down_color=green&down_message=red&label=Budget&up_color=blue&up_message=Tracker&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fbuild-tracker-orange)
+![](https://img.shields.io/website?down_color=green&down_message=red&label=App&up_color=blue&up_message=$$$&url=https%3A%2F%2Fimg.shields.io%2Fbadge%2Fbuild-tracker-orange)
 
 # Budget_Trackers
 User Story: AS AN avid traveller I WANT to be able to track my withdrawals and deposits with or without a data/internet connection SO THAT my account balance is accurate when I am traveling. 
