@@ -8,9 +8,15 @@ User Story: AS AN avid traveller I WANT to be able to track my withdrawals and d
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
+# Image
+![](https://github.com/Kathleen-Y/Budget_Trackers.git)
 
 ## Technologies Used
-- Mongoose
+    - "compression"
+    - "express"
+    - "lite-server"
+    - "mongoose"
+    - "morgan"
 
 
 ## Inside
